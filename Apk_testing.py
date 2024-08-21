@@ -25,10 +25,10 @@ import sys
 
 """
 	*****************************************************************************
-	** AndroBugs Framework - Android App Security Vulnerability Scanner        **
-	** This tool is created by Yu-Cheng Lin (a.k.a. AndroBugs) @ AndroBugs.com **
-	** Twitter: @AndroBugs                                                     **
-	** Email: androbugs.framework@gmail.com                                    **
+	** Apk Testing - Android App Security Vulnerability Scanner                **
+	** This tool is created by Arul Pakash R                                   **
+	** Twitter: @Apk_testing                                                   **
+	** Email: apktesting@gmail.com                                             **
 	*****************************************************************************
 
 	** Read Python codeing style first: http://www.python.org/dev/peps/pep-0008/ **
@@ -39,7 +39,7 @@ import sys
 	  See the explanation of function 'def get_certificate(self, filename)' in 'apk.py' file
 	  => It becomes optional now. Since the related code is not comment out for ease of use and install.
 
-	3.Use command 'grep -nFr "#Added by AndroBugs" *' to see what AndroBugs Framework has added to Androguard Open Source project under "tools/modified/androguard" root directory.
+	3.Use command 'grep -nFr "#Added by Apk_testing" *' to see what AndroBugs Framework has added to Androguard Open Source project under "tools/modified/androguard" root directory.
 
 	4.Notice the "encoding" when copy and paste into this file (For example: the difference between single quote ' ).
 
